@@ -9,9 +9,9 @@ A fullstack developer Jr.
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/daniel-pereira-sanches-0a1ba0210)
 
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@dibmartins)
 
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-DD0046?logo=instagram&logoColor=white&style=for-the-badge" />](https://www.instagram.com/danielpereira21063)
+
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Daniel21063)
 
 <br>
