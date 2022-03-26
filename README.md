@@ -14,7 +14,7 @@ A fullstack developer Jr.
 
 [<img align="left" alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Daniel21063)
 
-[<img align="left" alt="Youtube" src="https://img.shields.io/badge/youtube-red&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCY28Uf5BI7k6aJ07iSP39tA)
+[<img align="left" alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCY28Uf5BI7k6aJ07iSP39tA?color=%23fff&label=Youtube&logoColor=%23f00&style=social" />](https://www.youtube.com/channel/UCY28Uf5BI7k6aJ07iSP39tA)
 
 <br>
 <br>
