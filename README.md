@@ -1,5 +1,5 @@
 ### Hey! I'm Daniel. 👋
-A fullstack developer Jr.
+A fullstack developer.
 
 🇧🇷 From Brazil 
 
