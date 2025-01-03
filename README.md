@@ -3,9 +3,8 @@ A fullstack developer.
 
 🇧🇷 From Brazil 
 
-<br>
-
 My portfolio: https://danielsanchesdev.com.br/
+<br>
 
 ## Connect with me:
 
